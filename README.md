@@ -79,7 +79,7 @@ MistCore
 
 
 
-TrinityCore:
+TrinityCore:=
 
 [TrinityCore Site](http://www.trinitycore.org)
 
