@@ -1,1 +1,0 @@
-DELETE FROM command where `name` = 'unstuck';

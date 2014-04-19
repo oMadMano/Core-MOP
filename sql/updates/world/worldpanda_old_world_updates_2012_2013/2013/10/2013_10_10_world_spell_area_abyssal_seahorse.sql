@@ -1,1 +1,0 @@
-DELETE FROM spell_area WHERE spell = 75207;
